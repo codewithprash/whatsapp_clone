@@ -1,9 +1,5 @@
 # whatsapp_clone:   [Try this app on browser](https://cwpwhatsapp.pages.dev)
 
-A new Flutter project.
-
-## Getting Started
-
 This project is a starting point for a WhatsApp UI Clone - cross platform Flutter application using 
 Flutter.
 
